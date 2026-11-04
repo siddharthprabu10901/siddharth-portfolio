@@ -4,6 +4,8 @@ New to React? Read [LEARNING.md](LEARNING.md) for a small-step rebuild plan and 
 
 A responsive React + TypeScript portfolio for Siddharth P, Senior Software Engineer at Odessa Technologies. Designed and developed with AI assistance.
 
+[Open the live portfolio](https://siddharthprabu10901.github.io/siddharth-portfolio/).
+
 Professional experience is presented in JavaScript, jQuery, Syncfusion, HTML/CSS and Playwright. React and TypeScript are explicitly identified as learning/project skills. The professional case studies are high-level descriptions only; they contain no company code, screenshots or customer data.
 
 ## Run
