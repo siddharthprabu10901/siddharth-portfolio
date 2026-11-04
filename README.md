@@ -30,6 +30,6 @@ The résumé and case studies are drafts for personal review. No Naukri profile 
 
 In the `siddharth-portfolio` repository, enable Settings → Pages → GitHub Actions. Push to `main`; the included workflow builds with `/siddharth-portfolio/` as its base path and deploys the site. Change `vite.config.ts` if your repository name differs.
 
-The project initially links to your verified GitHub profile. A Flowdesk repository link appears only when `VITE_FLOWDESK_SOURCE_URL` is set. Do not add a repository or live URL before it exists.
+The portfolio links to [Flowdesk's verified live demo](https://siddharthprabu10901.github.io/flowdesk/) and [its source repository](https://github.com/siddharthprabu10901/flowdesk). These defaults can be overridden using `VITE_FLOWDESK_URL` and `VITE_FLOWDESK_SOURCE_URL`.
 
-After publishing Flowdesk publicly, update the default demo URL in `src/profile.ts` or set `VITE_FLOWDESK_URL` in the Pages workflow's build environment. A private Sites demo requires your account sign-in and is unsuitable as a recruiter-facing demo until made public or replaced by a public deployment.
+Both professional case studies describe employer work at a general level. The expense project is an independent React learning demo with fictional data.

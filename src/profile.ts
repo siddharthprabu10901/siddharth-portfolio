@@ -8,8 +8,10 @@ export const profile = {
   github: "https://github.com/siddharthprabu10901",
   projectDemo:
     import.meta.env.VITE_FLOWDESK_URL ||
-    "https://siddharth-flowdesk.sidlunatic10.chatgpt.site",
-  projectSource: import.meta.env.VITE_FLOWDESK_SOURCE_URL || "",
+    "https://siddharthprabu10901.github.io/flowdesk/",
+  projectSource:
+    import.meta.env.VITE_FLOWDESK_SOURCE_URL ||
+    "https://github.com/siddharthprabu10901/flowdesk",
 };
 export const caseStudies = {
   flowdesk: {
